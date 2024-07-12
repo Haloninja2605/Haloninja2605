@@ -1,7 +1,5 @@
 # Mridul Goyal's GitHub Profile
 
-![Mridul Goyal](profile_picture.jpg) 
-
 ## About Me
 
 Hi, I'm Mridul Goyal, currently pursuing my Bachelor of Science in Data Science and Applications from the Indian Institute of Technology, Madras, and Bachelor of Technology in Mechanical Engineering from the Indian Institute of Engineering Science and Technology, Shibpur. I am passionate about technology, coding, and solving real-world problems through innovative solutions.
